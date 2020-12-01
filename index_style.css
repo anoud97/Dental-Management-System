@@ -1,0 +1,68 @@
+.header_section {
+}
+
+.header_section {
+  background-color: #439f99;
+  padding: 1px;
+}
+
+.current_time_date_bar {
+  background-color: #eaeaea;
+  padding: 2px;
+}
+
+.main_content_section {
+  margin-bottom: 15px;
+  padding-top: 15px;
+}
+
+.text-center.website_word_header {
+  font-size: 23px;
+  color: rgb(128,141,146);
+  font-family: tahoma;
+}
+
+.text-center.website_word {
+  padding-top: 15px;
+  color: rgb(114,120,126);
+  font-size: 16px;
+  font-family: tahoma;
+}
+
+.btn.btn-primary.btn-lg.login_button {
+  background-color: rgb(77,198,190);
+  font-size: 20px;
+  border: 0px solid #000;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: tahoma;
+}
+
+.contacts_section {
+  width: 250px;
+  padding-left: 10px;
+}
+
+.website_footer {
+}
+
+.website_footer_main {
+  height: 80px;
+  background-color: #439f99;
+}
+
+.text-center.footer_time_date {
+  font-size: 16px;
+  padding-top: 11px;
+  color: rgb(251,252,252);
+}
+
+.d-flex.d-sm-flex.d-md-flex.justify-content-center.justify-content-sm-center.website_logo {
+  width: 100px;
+  height: 90px;
+  margin-right: auto;
+  margin-top: 11px;
+  margin-left: auto;
+  opacity: 0.90;
+}
+

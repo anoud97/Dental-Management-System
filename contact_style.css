@@ -1,0 +1,268 @@
+.col.Doctors_columen {
+  padding-right: 0px;
+  padding-left: 0px;
+  border: 1px solid #1b1a1a;
+}
+
+.col.Receptionist_columen {
+  padding-right: 0px;
+  padding-left: 0px;
+  border: 1px solid #1b1a1a;
+}
+
+
+.Doctors_columen_header {
+  background-color: #e7d5d5;
+  width: 100%;
+}
+
+.Receptionist_columen_header {
+  background-color: #e7d5d5;
+  width: 100%;
+}
+
+.chatting_colument_header {
+  background-color: #f8eaea;
+
+}
+
+.col-sm-4.col-md-3.col-lg-3.Doctors_columen {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.col-sm-8.col-md-9.col-lg-9.chatting_colument {
+  padding: 0px;
+}
+
+
+.row.chat_div_header {
+  width: 95%;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 40px;
+
+}
+
+.row.chat_div_content {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  height: 40px;
+
+}
+
+.doctor_list_item {
+  border: 1px solid #e4e2e2;
+  margin-right: 5px;
+  list-style-type: none;
+  margin-bottom: 1px;
+  padding: 0px;
+}
+
+.receptionist_list_item {
+  border: 1px solid #e4e2e2;
+  margin-right: 5px;
+  list-style-type: none;
+  margin-bottom: 1px;
+  padding: 0px;
+}
+
+.messages_list {
+  list-style-type: none;
+}
+
+.messages_list_item {
+  padding: 5px 10px;
+  height: auto;
+}
+
+.sented_message {
+  float:right;
+  background-color: #c2f39d;
+}
+
+.recived_message {
+ float:left;
+ background-color: #edf398;
+}
+
+.message {
+  height: 100%;
+}
+
+
+.sender_image {
+  width: 40px;
+  float: left;
+}
+
+.message_text {
+  border: 1px solid #cbcccb;
+  border-radius: 3px;
+  height:auto;
+  max-width:200px;
+  width:auto;
+  border-radius:5px;
+}
+
+.message_paragraph {
+  padding: 5px;
+  margin-bottom: -12px;
+  font-size: 14px;
+}
+
+
+.col-sm-8.col-md-9.col-lg-9.chatting_columnt {
+  padding: 10px;
+}
+
+.btn.btn-primary.send_btn {
+  height: 35px;
+  padding: 4px;
+  width: 45px;
+  font-size: 15px;
+  margin-left: 10px;
+  float: right;
+}
+
+.send_message_area {
+  padding: 5px;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  /*box-shadow: 3px 3px 2px #6d6a6a;*/
+  margin-top: 10px;
+}
+
+.new_message_text {
+  padding: 4px;
+  width: 50%;
+  margin-left: 20px;
+  border: 1px solid #beb9b9;
+}
+
+
+.Doctors_columen_content{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.Receptionist_columen_content{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+
+.chatting_colument_content {
+  padding-right:15px;
+  padding-left:15px;
+  border: 1px solid #dddddd;
+  /*box-shadow: 3px 3px 3px #888;*/
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.doctor_list {
+  margin-top: 50px;
+  padding: 0px;
+}
+
+
+.doctor_image {
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-left: 10px;
+}
+
+.doctor_name {
+  margin-left: 10px;
+  margin-top: 14px;
+  font-size: 14px;
+  margin-top: 10px;
+  color: #636060;
+  margin-bottom: 10px;
+}
+
+.doctor_info {
+  width: 100%;
+  padding: 0px;
+}
+
+
+.receptionist_list {
+  margin-top: 50px;
+  padding: 0px;
+}
+
+
+.receptionist_image {
+  width: 40px;
+  height: 40px;
+
+  margin-left: 10px;
+}
+
+.receptionist_name {
+  margin-left: 10px;
+  margin-top: 14px;
+  font-size: 14px;
+  margin-top: 10px;
+  color: #636060;
+  margin-bottom: 10px;
+}
+
+.receptionist_info {
+  width: 100%;
+  padding: 0px;
+}
+
+
+
+.message_row {
+  width: 20;
+}
+
+.text-center.message_time {
+  font-size: 9px;
+  padding-left: 10px;
+  width: 100%;
+  color: rgb(22,67,133);
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.is_connect {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  width: 15px;
+  height: 15px;
+  background-color: rgb(106,242,106);
+  border-radius: 8px;
+  border: 2px solid #fbfcfb;
+  margin-bottom: -15px;
+  z-index: 99;
+}
+
+.send_message_area {
+  padding: 5px;
+  border: 2px solid #d7cece;
+  border-radius: 20px;
+  width: 96%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.col-sm-8.col-md-9.col-lg-9.chatting_column {
+  padding: 10px;
+}
+
+.menue_list_icon{
+  width:40px; 
+  height:40px; 
+  margin-right:8px;
+}

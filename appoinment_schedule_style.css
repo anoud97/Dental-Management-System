@@ -1,0 +1,229 @@
+.login-clean {
+  background: #f1f7fc;
+  padding: 10px 0;
+  margin: 20px auto;
+}
+
+
+.login-clean form {
+  max-width: 320px;
+  width: 90%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 4px;
+  color: #505e6c;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+
+.login-clean .illustration {
+  text-align: center;
+  padding: 0 0 20px;
+  font-size: 100px;
+  color: rgb(244,71,107);
+}
+
+
+.login-clean form .form-control {
+  background: #f7f9fc;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 0;
+  box-shadow: none;
+  outline: none;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+}
+
+
+.login-clean form .btn-primary {
+  background: #f4476b;
+  border: none;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 26px;
+  text-shadow: none;
+  outline: none !important;
+}
+
+
+
+.login-clean form .btn-primary:hover, .login-clean form .btn-primary:active {
+  background: #eb3b60;
+}
+
+
+.login-clean form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+
+.login-clean form .forgot {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+
+.login-clean form .forgot:hover, .login-clean form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+
+
+.loginFooter {
+  height: 100px;
+  background-color: #366dd7;
+}
+
+
+.pageHeader {
+  width: 100%;
+  height: 70px;
+  background-color: #689bca;
+}
+
+
+.leftSide {
+  float: left;
+  width: 20%;
+  height: auto;
+  background-color: #689bca;
+}
+
+
+.col-sm-8.col-md-9.col-lg-9.col-xl-10.rightSide {
+}
+
+
+.menuList {
+  text-decoration: none;
+  list-style: none;
+  padding: 0px;
+}
+
+
+.menuItem {
+  text-decoration: none;
+  padding: 0px;
+  width: 100%;
+  margin-left: 0px;
+  border: 1px solid #8bb9e4;
+  padding-left: 20px;
+}
+
+
+.menuItemLink {
+  text-decoration: none;
+  color: #000;
+  padding: 2px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.menuItemLink {
+  width: 100%;
+  height: 20px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+
+.menuItemIcon {
+}
+
+
+.userInfo {
+  width: 250px;
+  float: right;
+  height: 70px;
+}
+
+.userName {
+  width: 50%;
+  float: left;
+}
+
+.userImg {
+}
+
+.content {
+  width: 100%;
+}
+
+.col-sm-8.col-md-9.col-lg-9.col-xl-10.rightSide {
+}
+
+.col-sm-8.col-md-9.col-lg-9.col-xl-10.rightSide {
+  padding: 0px;
+}
+
+.registerDiv {
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ccc;
+  background-color: #e7e2dd;
+  padding: 10px;
+  box-shadow: 6px 5px 6px #444;
+}
+
+.form-control.inputText {
+  width: 90%;
+  margin: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form-control.genderSelect {
+  width: 40%;
+  margin-right: auto;
+  height: 36px;
+  margin-left: 5%;
+}
+
+
+.table-responsive.appoinmentTable {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2px;
+  border: 1px solis #ddd;
+  font-size:14px;
+}
+
+.patientInformation {
+}
+
+.patient_Information_Div {
+  height: auto;
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+}
+
+.add_appoinment_Div {
+  width: 96%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn.btn-primary.add_appoinment_button {
+  margin-left: 22px;
+  height: 40px;
+  font-size: 16px;
+  background-color: rgb(91,91,92);
+  padding: 5px;
+  float: right;
+  margin-right: 5px;
+  margin-top: 1px;
+  width: 75px;
+}
+

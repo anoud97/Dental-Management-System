@@ -1,0 +1,164 @@
+.btn.btn-primary.tooth_button {
+  width: 10.5%;
+  height: 120px;
+  padding: 0px;
+  background-color: Transparent;
+  cursor: pointer;
+  border: 1px solid #ddd;
+  margin: 0px;
+}
+
+.btn.btn-primary.tooth_button:hover {
+  border: 3px solid rgb(129, 128, 128);
+  border-radius: 10px;
+}
+
+.tooth_img {
+  width: 80%;
+  height: 100%;
+}
+
+.btn.btn-primary.edit_button {
+  padding: 2px;
+  width: 33px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+.btn.btn-primary.accept_button {
+  padding: 2px;
+  width: 52px;
+  margin-right: 5px;
+  background-color: green;
+  font-size: 14px;
+}
+
+.btn.btn-primary.delete_button {
+  padding: 2px;
+  width: 46px;
+  font-size: 14px;
+  background-color: rgb(254,61,48);
+}
+
+.text-center.search_patient_area {
+  margin-top: 12px;
+  padding: 5px;
+  width: 99%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f5f2f2;
+}
+
+.row.patient_info_row {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 6px;
+  color: rgb(242,242,242);
+  padding-top: 12px;
+}
+
+.new_teeth_case_area {
+  background-color: #f5f2f2;
+  margin-top: 8px;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(97,97,98);
+}
+
+.patient_chart_section {
+  border: 1px solid #eee;
+  padding: 5px;
+}
+
+.patient_list {
+  width: 220px;
+  border: 1px solid #ddd;
+  padding: 2px;
+  font-size: 15px;
+  color: rgb(84,83,83);
+}
+
+.btn.btn-primary.view_patient_info {
+  padding: 1px;
+  font-size: 15px;
+  width: 61px;
+  height: 29px;
+  margin-top: -6px;
+  margin-left: 10px;
+  background-color: rgb(67,159,153);
+}
+
+.col-md-3.col-lg-2.patient_img_col {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.patient_img {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  padding: 10px;
+  background-color: #f2f0f0;
+  border: 1px solid #ddd;
+}
+
+.patient_name {
+  color: rgb(67,159,153);
+  margin-bottom: 1px;
+  margin-left: 4px;
+  font-size: 21px;
+}
+
+.row.up_teeth_row {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5px;
+  color: rgb(242,242,242);
+  width: 95%;
+  padding: 0px;
+}
+
+.row.bottom_teeth_row {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2px;
+  color: rgb(242,242,242);
+  width: 95%;
+}
+
+.col.up_row_left_col {
+  margin-right: 0px;
+  margin-left: auto;
+  padding-right: 0px;
+}
+
+.col.up_row_right_col {
+  margin-right: auto;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.col.bottom_row_left_col {
+  margin-right: 0px;
+  margin-left: auto;
+  padding-right: 0px;
+}
+
+.col.bottom_row_right_col {
+  margin-right: auto;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.table-responsive.chart_table {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+}
+
+.chart_table_header {
+  background-color: #f4f3f3;
+  font-size: 16px;
+  color: rgb(60,61,62);
+}
+
